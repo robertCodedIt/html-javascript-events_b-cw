@@ -2,6 +2,8 @@
 
 NOTE: Use Arrow function syntax when adding event listeners!
 
+PRO TIP: A string is nothing more than an array of characters
+
 ### Exercise 1:
 Create a page with a blank label and a text area. When someone types into the text area, change the label to show what the person has typed.
 
