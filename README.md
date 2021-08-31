@@ -1,10 +1,6 @@
 # html-javascript-events_b-cw
 
-```
-element.onkeydown = function(e){
-  console.log(e.target.value);
-}
-```
+NOTE: Use Arrow function syntax when adding event listeners!
 
 ### Exercise 1:
 Create a page with a blank label and a text area. When someone types into the text area, change the label to show what the person has typed.
